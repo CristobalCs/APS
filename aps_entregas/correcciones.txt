@@ -1,10 +1,26 @@
 Correcciones de las TS
 
-TS1:
-
+TS1: Análisis de Señales
 * Por favor, pasá el texto del Notebook por un corrector, que hay varios errores de ortografía. 
 * En los gráficos de la FFT de las señales dice Espectro del Módulo en el eje vertical, pero 
   para ser precisos, en realidad tenés que poner módulo de la fft. En todo caso, podés poner 
   Espectro del Módulo como título, aunque yo lo desaconsejo. Prefiero hablar de espectro de la 
   señal en términos generales.
 * Quedaría mejor poner la conclusión como una sección separada. 
+
+TS3: Desparramo Espectral 
+* Gran Trabajo.
+* Pasá el texto por un corrector que hay errores de ortografía y edición:
+  Por ejemplo: PSD (del inglés Power Spectral Density) no PDSs
+* Hay un error en: "Dicha técnica consiste en agregar ceros al final de la señal para aumentar Δf 
+  de forma ficticia" 
+* Los deltas en el espectro están en 0dB. Normalización forzada. Tené en cuenta que la otra mitad 
+  de la banda también aporta energía.
+
+TS4: Estimadores
+* Nuevamente gran trabajo.
+* En el eje vertical de los histogramas veo la etiqueta cuentas/realizaciones. Qué quisiste poner?
+* El punto 2 de la conclusión no es correcto, para la estimación de amplitud con flat-top, la 
+  varianza es prácticamente la misma.
+
+
