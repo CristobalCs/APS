@@ -23,4 +23,11 @@ TS4: Estimadores
 * El punto 2 de la conclusión no es correcto, para la estimación de amplitud con flat-top, la 
   varianza es prácticamente la misma.
 
+TS6: Filtros Pasivos
+* Los gráficos tenían que ser a mano, la idea es que vayan con esa práctica para el parcial. 
+* Falta el gráfico de Bode del segundo filtro.
+* Hubiese estado bueno que en las conclusiones desarrollen un poco más una idea general sobre la
+  respuesta asintótica de los filtros.
+
+
 
